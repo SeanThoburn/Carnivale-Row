@@ -8,4 +8,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Hub.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Mystic.unity
+    guid: 8f72bdb23fa69cc4582ae957b5141650
+  - enabled: 1
+    path: Assets/Scenes/Haunted.unity
+    guid: 79420f9eaaa0c3b409c1c83f187e21e1
+  - enabled: 1
+    path: Assets/Scenes/Escape.unity
+    guid: 81a57e33a3970e642bc2c3a35a4f2406
   m_configObjects: {}
