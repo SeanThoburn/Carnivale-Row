@@ -10,9 +10,4 @@ public class SceneChanger : MonoBehaviour {
         Time.timeScale = 1f;
         
     }
-
-    void OnTriggerEnter(Collider other)
-    {
-        SceneManager.LoadScene("Town");
-    }
 }
