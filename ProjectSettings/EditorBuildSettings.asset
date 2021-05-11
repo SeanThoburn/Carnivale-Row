@@ -20,4 +20,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Escape.unity
     guid: 81a57e33a3970e642bc2c3a35a4f2406
+  - enabled: 1
+    path: Assets/Scenes/Hub2.unity
+    guid: b6a7c779b901c034bbdfaddd2bddbe53
+  - enabled: 1
+    path: Assets/Scenes/Hub3.unity
+    guid: 10ec0d72d72561a4bafa047ff61d8413
+  - enabled: 1
+    path: Assets/Scenes/Hub4.unity
+    guid: 0e022100c3a3a89459371778619555e6
+  - enabled: 1
+    path: Assets/Scenes/Home 1.unity
+    guid: 30cb19c19981b7f46b3938731a223bfc
   m_configObjects: {}
