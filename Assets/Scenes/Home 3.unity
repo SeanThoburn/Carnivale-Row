@@ -2058,7 +2058,7 @@ PrefabInstance:
     - target: {fileID: 5232038272649064134, guid: 8bd0a7d20a508e0429d1ac717bf93675,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: Hub 3
+      value: Hub3
       objectReference: {fileID: 0}
     - target: {fileID: 5232038273971792392, guid: 8bd0a7d20a508e0429d1ac717bf93675,
         type: 3}
