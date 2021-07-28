@@ -116,6 +116,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 196
       Script: {instanceID: 0}
+    - Class: 212
+      Script: {instanceID: 0}
     - Class: 213
       Script: {instanceID: 0}
     - Class: 222
@@ -206,6 +208,8 @@ ScriptsOnlyBuild:
     - Class: 157
       Script: {instanceID: 0}
     - Class: 196
+      Script: {instanceID: 0}
+    - Class: 212
       Script: {instanceID: 0}
     - Class: 213
       Script: {instanceID: 0}
@@ -518,8 +522,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 82
       Script: {instanceID: 0}
-    - Class: 83
-      Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 108
@@ -588,8 +590,6 @@ ScriptsOnlyBuild:
     - Class: 81
       Script: {instanceID: 0}
     - Class: 82
-      Script: {instanceID: 0}
-    - Class: 83
       Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
@@ -660,8 +660,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 82
       Script: {instanceID: 0}
-    - Class: 83
-      Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 108
@@ -730,8 +728,6 @@ ScriptsOnlyBuild:
     - Class: 81
       Script: {instanceID: 0}
     - Class: 82
-      Script: {instanceID: 0}
-    - Class: 83
       Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
@@ -1097,7 +1093,7 @@ ScriptsOnlyBuild:
     className: TMP_SpriteAnimator
   - hash:
       serializedVersion: 2
-      Hash: f3218e091b282910a34551a987391499
+      Hash: ab0f4fd5a1589ab4bbe8069ee10d8945
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: escape
@@ -1360,5 +1356,5 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Home 1.unity
   - Assets/Scenes/Home 2.unity
   - Assets/Scenes/Home 3.unity
-  playerPath: D:/Sean/Education/University/Third Year/FYP/Build/Submission Build/Carnivale
-    Row.exe
+  playerPath: D:/Sean/Education/University/Third Year/FYP/Build/Resub Builds/Resub
+    Test 1/Carnivale Row.exe
