@@ -1152,6 +1152,11 @@ PrefabInstance:
       propertyPath: message
       value: 
       objectReference: {fileID: 1084376737}
+    - target: {fileID: 169265891672312776, guid: d51e13d176509cf42bc0052f5c507974,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 169265891751045834, guid: d51e13d176509cf42bc0052f5c507974,
         type: 3}
       propertyPath: m_LocalPosition.x

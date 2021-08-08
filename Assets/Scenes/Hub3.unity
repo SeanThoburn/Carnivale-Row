@@ -2628,6 +2628,11 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 169265893388781692, guid: d51e13d176509cf42bc0052f5c507974,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 169265893548171763, guid: d51e13d176509cf42bc0052f5c507974,
         type: 3}
       propertyPath: message

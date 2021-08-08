@@ -2645,11 +2645,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 169265891672312776, guid: d51e13d176509cf42bc0052f5c507974,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 169265891751045834, guid: d51e13d176509cf42bc0052f5c507974,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2710,41 +2705,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Doors
       objectReference: {fileID: 0}
-    - target: {fileID: 169265893388781687, guid: d51e13d176509cf42bc0052f5c507974,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 1.72
-      objectReference: {fileID: 0}
-    - target: {fileID: 169265893388781687, guid: d51e13d176509cf42bc0052f5c507974,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 62.52
-      objectReference: {fileID: 0}
-    - target: {fileID: 169265893388781687, guid: d51e13d176509cf42bc0052f5c507974,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0.8843668
-      objectReference: {fileID: 0}
-    - target: {fileID: 169265893388781687, guid: d51e13d176509cf42bc0052f5c507974,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.46679264
-      objectReference: {fileID: 0}
-    - target: {fileID: 169265893388781687, guid: d51e13d176509cf42bc0052f5c507974,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 124.34701
-      objectReference: {fileID: 0}
     - target: {fileID: 169265893388781690, guid: d51e13d176509cf42bc0052f5c507974,
         type: 3}
       propertyPath: message
       value: 
       objectReference: {fileID: 1084376737}
-    - target: {fileID: 169265893388781692, guid: d51e13d176509cf42bc0052f5c507974,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 169265893548171763, guid: d51e13d176509cf42bc0052f5c507974,
         type: 3}
       propertyPath: message

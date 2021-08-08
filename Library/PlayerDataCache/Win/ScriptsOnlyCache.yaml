@@ -1366,5 +1366,5 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Home4.unity
   - Assets/Scenes/Home2.unity
   - Assets/Scenes/Home 3.unity
-  playerPath: D:/Sean/Education/University/Third Year/FYP/Build/Resub Builds/Resub
-    Test 2/Carnivale Row.exe
+  playerPath: D:/Sean/Education/University/Third Year/FYP/Build/Resub Builds/Build/Carnivale
+    Row.exe
